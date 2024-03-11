@@ -1,0 +1,20 @@
+<players root="gfx/characters/costumes/" portraitroot="gfx/ui/stage/" nameimageroot="gfx/ui/boss/">
+    <player name="Hush"
+        skin="character_hush.png"
+        nameimage="playername_hush.png"
+        healthtype="1"
+        soulhearts="8"
+        bombs="1"
+        card="60"
+        portrait="playerportrait_hush.png"
+        skinColor="-1"
+        costumeSuffix="hush"
+        
+        speedmodifier="-0.182"
+        firedelaymodifier="-0.44"
+        damagemodifier="-0.77"
+        rangemodifier="-1.045"
+        shotspeedmodifier="-0.27"
+        luckmodifier="-0.91"
+    />
+</players>
